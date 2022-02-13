@@ -1,0 +1,5 @@
+GPUtil==1.4.0
+psutil==5.8.0
+py_cpuinfo==8.0.0
+screeninfo==0.8
+uptime==3.0.1
